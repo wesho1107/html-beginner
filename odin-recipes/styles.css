@@ -1,0 +1,24 @@
+* {
+    background-color: beige;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1 {
+    background-color: brown;
+    color: beige;
+    text-align: center;
+    font-size: 46px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: auto;
+}
+
+.recipes {
+    font-size: 20px;
+    width: 30%;
+    border: 2px dotted;
+
+}
